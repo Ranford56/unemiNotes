@@ -1,0 +1,54 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Universitario/adminSO",
+      "template": "templates/unemiNotes Template.md"
+    },
+    {
+      "folder": "Universitario/gestionDB",
+      "template": "templates/unemiNotes Template.md"
+    },
+    {
+      "folder": "Universitario/ingSoftware",
+      "template": "templates/unemiNotes Template.md"
+    },
+    {
+      "folder": "Universitario/interfacesMultimedia",
+      "template": "templates/unemiNotes Template.md"
+    },
+    {
+      "folder": "Universitario/redesComputadoras",
+      "template": "templates/unemiNotes Template.md"
+    },
+    {
+      "folder": "Universitario/techWeb",
+      "template": "templates/unemiNotes Template.md"
+    },
+    {
+      "folder": "dailyNotes",
+      "template": "templates/dailyNotes Template.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

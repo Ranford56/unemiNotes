@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "93a9cc8b7e6a7ae7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d65336063aa55822",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1485a5c30211d39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f3e96144e0c666f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa42a4b7d41c3a2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "809b49e8ff2315f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9af09b9e2ee11191",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f187d2f25d36a6cf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217.5
+  },
+  "right": {
+    "id": "bb5be4ca52e9e3ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "146acb32d141bb6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a62139f36f5b88a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f77725798a498412",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "872e9d71b935512d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "28ec315c90507389",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          },
+          {
+            "id": "2cb4a7453b058495",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a1485a5c30211d39",
+  "lastOpenFiles": [
+    "dailyNotes/2022-11-27.md",
+    "Home.md",
+    "dailyNotes/2022-11-28.md",
+    "Universitario/ingSoftware/Unidad 1.md",
+    "Universitario/ingSoftware/Untitled.md",
+    "templates/dailyNotes Template.md",
+    "templates/unemiNotes Template.md",
+    "2022-11-27.md",
+    "2022-11-28.md",
+    "2022-11-29.md"
+  ]
+}
