@@ -1,7 +1,7 @@
 ---
 cssclass: dashboard
 banner: "![[home.webp]]"
-banner_y: 1
+banner_y: 0.404
 ---
 
 # Universidad
@@ -112,3 +112,4 @@ renderHeatmapCalendar(this.container, calendarData)
 - 〽️ Estadisticas
 	-  Numero de Documentos: `$=dv.pages().length`
 	-  Personal recipes: `$=dv.pages('"Family/Recipes"').length`
+

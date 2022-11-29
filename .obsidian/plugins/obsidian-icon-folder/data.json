@@ -2,9 +2,14 @@
   "settings": {
     "migrated": true,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
-    "fontSize": 16,
+    "fontSize": 13,
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "🌎",
+      "🗒",
+      "📓",
+      "📁"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -13,5 +18,23 @@
       "bottom": 0,
       "left": 0
     }
-  }
+  },
+  "assets": "📁",
+  "dailyNotes": {
+    "iconName": "📁",
+    "inheritanceIcon": "🗒"
+  },
+  "templates": "📁",
+  "Universitario": "📁",
+  "Universitario/adminSO": "📁",
+  "Universitario/gestionDB": "📁",
+  "Universitario/ingSoftware": {
+    "iconName": "📁",
+    "inheritanceIcon": "📓"
+  },
+  "Universitario/interfacesMultimedia": "📁",
+  "Universitario/redesComputadoras": "📁",
+  "Universitario/techWeb": "📁",
+  "Home.md": "🌎",
+  "assets/ingSoftware": "📁"
 }
