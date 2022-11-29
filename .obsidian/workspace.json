@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -147,9 +147,9 @@
   },
   "active": "a1485a5c30211d39",
   "lastOpenFiles": [
-    "dailyNotes/2022-11-27.md",
-    "Home.md",
     "dailyNotes/2022-11-28.md",
+    "Home.md",
+    "dailyNotes/2022-11-27.md",
     "Universitario/ingSoftware/Unidad 1.md",
     "Universitario/ingSoftware/Untitled.md",
     "templates/dailyNotes Template.md",
