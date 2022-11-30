@@ -1,5 +1,5 @@
 ---
-tags: "ingSoftware"
+tags: "Universitario/ingSoftware"
 creation: 2022-11-28
 revision: 1
 banner: "![[home.webp]]"

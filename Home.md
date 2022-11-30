@@ -5,18 +5,29 @@ banner_y: 0.404
 ---
 
 # Universidad
+
+| Hora          | Lunes                     | Martes                                | Miércoles              | Jueves                  |
+| ------------- | ------------------------- | ------------------------------------- | ---------------------- | ----------------------- |
+| 14:35 - 15:35 | Ingeniería de Software   |                                       |                        |                         |
+| 15:40 - 16:40 | Redes de computadoras     | Ingeniería de Software                |                        |                         |
+| 16:45 - 17:45 | Tecnologías para la web   | Gestión de bases de datos             |                        |                         |
+| 18:00 - 18:59 | Gestión de bases de datos | Redes de computadoras                 | Ingeniería de Software | Tecnologías para la web |
+| 19:00 - 19:59 | Interfaces y multimedia   | Redes de computadoras                 |                        | Tecnologías para la web |
+| 20:00 - 20:59 | Interfaces y multimedia   | Administración de sistemas operativos |                        |                         |
+| 21:00 - 21:59 |                           | Administración de sistemas operativos |                        |                         |
 - ##### Ingenieria de Software
-`$=dv.list(dv.pages("#ingSoftware").limit(4).file.link)`
+`$=dv.list(dv.pages("#Universitario/ingSoftware").limit(4).file.link)`
 - ##### Administracion de Sistemas Operativos
-`$=dv.list(dv.pages("#adminSO").limit(4).file.link)`
+`$=dv.list(dv.pages("#Universitario/adminSO").limit(4).file.link)`
 - ##### Gestion de Bases de Datos
-`$=dv.list(dv.pages("#gestionDB").limit(4).file.link)`
+`$=dv.list(dv.pages("#Universitario/gestionDB").limit(4).file.link)`
 - ##### Interfaces y multimedia 
-`$=dv.list(dv.pages("#interfacesMultimedia").limit(4).file.link)`
+`$=dv.list(dv.pages("#Universitario/interfacesMultimedia").limit(4).file.link)`
 - ##### Redes de Computadoras
-`$=dv.list(dv.pages("#redesComputadoras").limit(4).file.link)`
+`$=dv.list(dv.pages("#Universitario/redesComputadoras").limit(4).file.link)`
 - ##### Tecnologias para la Web
-`$=dv.list(dv.pages("#techWeb").limit(4).file.link)`
+`$=dv.list(dv.pages("#Universitario/techWeb").limit(4).file.link)`
+# Universidad
 ```dataviewjs
 const calendarData = {
     year: 2022,  // (optional) defaults to current year
@@ -112,4 +123,3 @@ renderHeatmapCalendar(this.container, calendarData)
 - 〽️ Estadisticas
 	-  Numero de Documentos: `$=dv.pages().length`
 	-  Personal recipes: `$=dv.pages('"Family/Recipes"').length`
-

@@ -27,7 +27,10 @@
   "templates": "📁",
   "Universitario": "📁",
   "Universitario/adminSO": "📁",
-  "Universitario/gestionDB": "📁",
+  "Universitario/gestionDB": {
+    "iconName": "📁",
+    "inheritanceIcon": "📓"
+  },
   "Universitario/ingSoftware": {
     "iconName": "📁",
     "inheritanceIcon": "📓"
@@ -36,5 +39,6 @@
   "Universitario/redesComputadoras": "📁",
   "Universitario/techWeb": "📁",
   "Home.md": "🌎",
-  "assets/ingSoftware": "📁"
+  "assets/ingSoftware": "📁",
+  "Personas": "📁"
 }

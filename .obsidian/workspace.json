@@ -4,17 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "4b7a4ad773d6f492",
+        "id": "831771a0dc7cdf49",
         "type": "tabs",
         "children": [
           {
-            "id": "b2a1238d78c4ce3a",
+            "id": "05f8ea54db609af4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "152ab4ea646cc3e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Universitario/ingSoftware/Unidad 1.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -142,19 +154,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "b2a1238d78c4ce3a",
+  "active": "809b49e8ff2315f5",
   "lastOpenFiles": [
-    "dailyNotes/2022-11-28.md",
-    "dailyNotes/2022-11-29.md",
-    "templates/dailyNotes Template.md",
-    "dailyNotes/2022-11-27.md",
-    "assets/home.webp",
+    "Universitario/adminSO/Untitled.md",
     "Home.md",
-    "dailyNotes/Untitled.md",
-    "templates/unemiNotes Template.md",
     "Universitario/ingSoftware/Unidad 1.md",
-    "assets/ingSoftware/Untitled.md"
+    "Universitario/gestionDB/Unidad 1.md",
+    "$[meh].md",
+    "$[].md",
+    "templates/persona Template.md",
+    "Personas/Untitled.md",
+    "templates/dailyNotes Template.md",
+    "dailyNotes/2022-11-28.md"
   ]
 }

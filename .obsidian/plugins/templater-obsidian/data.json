@@ -41,6 +41,10 @@
     {
       "folder": "dailyNotes",
       "template": "templates/dailyNotes Template.md"
+    },
+    {
+      "folder": "Personas",
+      "template": "templates/persona Template.md"
     }
   ],
   "syntax_highlighting": true,
