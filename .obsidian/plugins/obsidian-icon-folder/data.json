@@ -24,9 +24,15 @@
     "iconName": "📁",
     "inheritanceIcon": "🗒"
   },
-  "templates": "📁",
+  "templates": {
+    "iconName": "📁",
+    "inheritanceIcon": "📓"
+  },
   "Universitario": "📁",
-  "Universitario/adminSO": "📁",
+  "Universitario/adminSO": {
+    "iconName": "📁",
+    "inheritanceIcon": "📓"
+  },
   "Universitario/gestionDB": {
     "iconName": "📁",
     "inheritanceIcon": "📓"
@@ -40,5 +46,17 @@
   "Universitario/techWeb": "📁",
   "Home.md": "🌎",
   "assets/ingSoftware": "📁",
-  "Personas": "📁"
+  "Personas": "📁",
+  "Universitario/interfacesMultimedia/Unidad 1.md": {
+    "iconName": null,
+    "inheritanceIcon": "📓"
+  },
+  "Universitario/redesComputadoras/Unidad 1.md": {
+    "iconName": null,
+    "inheritanceIcon": "📓"
+  },
+  "templates/persona Template.md": {
+    "iconName": null,
+    "inheritanceIcon": "📓"
+  }
 }

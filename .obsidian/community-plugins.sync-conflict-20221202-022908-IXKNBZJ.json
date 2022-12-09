@@ -9,14 +9,6 @@
   "obsidian-icon-folder",
   "obsidian-git",
   "url-into-selection",
-  "obsidian-vim-multibyte-char-search",
-  "dataview",
-  "obsidian-tracker",
-  "templater-obsidian",
-  "calendar",
-  "heatmap-calendar",
   "periodic-notes",
-  "obsidian-banners",
-  "obsidian-view-mode-by-frontmatter",
-  "table-editor-obsidian"
+  "obsidian-vim-multibyte-char-search"
 ]

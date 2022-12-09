@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "831771a0dc7cdf49",
+        "id": "31559c37e9b65cf1",
         "type": "tabs",
         "children": [
           {
-            "id": "05f8ea54db609af4",
+            "id": "42154a472c184616",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": false
+                "file": "dailyNotes/2022-12-08.md",
+                "mode": "source",
+                "source": true
               }
             }
           },
           {
-            "id": "152ab4ea646cc3e8",
+            "id": "7dc001c632166849",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universitario/ingSoftware/Unidad 1.md",
+                "file": "Universitario/redesComputadoras/Unidad 1.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 200
   },
   "right": {
     "id": "bb5be4ca52e9e3ab",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Universitario/redesComputadoras/Unidad 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Universitario/redesComputadoras/Unidad 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Universitario/redesComputadoras/Unidad 1.md"
               }
             }
           },
@@ -157,17 +158,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "809b49e8ff2315f5",
+  "active": "7dc001c632166849",
   "lastOpenFiles": [
-    "Universitario/adminSO/Untitled.md",
     "Home.md",
-    "Universitario/ingSoftware/Unidad 1.md",
+    "Universitario/redesComputadoras/Unidad 1.md",
+    "dailyNotes/2022-12-08.md",
+    "dailyNotes/2022-12-07.md",
     "Universitario/gestionDB/Unidad 1.md",
-    "$[meh].md",
-    "$[].md",
-    "templates/persona Template.md",
-    "Personas/Untitled.md",
-    "templates/dailyNotes Template.md",
-    "dailyNotes/2022-11-28.md"
+    "dailyNotes/2022-12-06.md",
+    "dailyNotes/2022-12-04.md",
+    "dailyNotes/2022-12-05.md",
+    "Universitario/interfacesMultimedia/Unidad 1.md",
+    "dailyNotes/2022-12-03.md"
   ]
 }
