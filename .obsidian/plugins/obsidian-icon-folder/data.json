@@ -42,7 +42,10 @@
     "inheritanceIcon": "📓"
   },
   "Universitario/interfacesMultimedia": "📁",
-  "Universitario/redesComputadoras": "📁",
+  "Universitario/redesComputadoras": {
+    "iconName": "📁",
+    "inheritanceIcon": "📓"
+  },
   "Universitario/techWeb": "📁",
   "Home.md": "🌎",
   "assets/ingSoftware": "📁",
@@ -51,12 +54,13 @@
     "iconName": null,
     "inheritanceIcon": "📓"
   },
-  "Universitario/redesComputadoras/Unidad 1.md": {
-    "iconName": null,
-    "inheritanceIcon": "📓"
-  },
   "templates/persona Template.md": {
     "iconName": null,
     "inheritanceIcon": "📓"
-  }
+  },
+  "Universitario/redesComputadoras/Unidad 1 Tema 1.md": {
+    "iconName": null,
+    "inheritanceIcon": "📓"
+  },
+  "assets/redesComputadoras": "📁"
 }
