@@ -41,7 +41,10 @@
     "iconName": "📁",
     "inheritanceIcon": "📓"
   },
-  "Universitario/interfacesMultimedia": "📁",
+  "Universitario/interfacesMultimedia": {
+    "iconName": "📁",
+    "inheritanceIcon": "📓"
+  },
   "Universitario/redesComputadoras": {
     "iconName": "📁",
     "inheritanceIcon": "📓"
