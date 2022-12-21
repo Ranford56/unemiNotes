@@ -49,7 +49,10 @@
     "iconName": "📁",
     "inheritanceIcon": "📓"
   },
-  "Universitario/techWeb": "📁",
+  "Universitario/techWeb": {
+    "iconName": "📁",
+    "inheritanceIcon": "📓"
+  },
   "Home.md": "🌎",
   "assets/ingSoftware": "📁",
   "Personas": "📁",
