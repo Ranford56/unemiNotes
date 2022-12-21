@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universitario/techWeb/Unidad 1.md",
+                "file": "dailyNotes/2022-12-20.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universitario/techWeb/Unidad 1.md",
+                "file": "dailyNotes/2022-12-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Universitario/techWeb/Unidad 1.md",
+                "file": "dailyNotes/2022-12-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universitario/techWeb/Unidad 1.md"
+                "file": "dailyNotes/2022-12-20.md"
               }
             }
           },
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,6 +169,7 @@
   },
   "active": "35c5d4f6308a9368",
   "lastOpenFiles": [
+    "Universitario/techWeb/Unidad 1.md",
     "Home.md",
     "Untitled.md",
     "dailyNotes/2022-12-20.md",
@@ -178,7 +178,6 @@
     "Pomodoro Log.md",
     "templates/persona Template.md",
     "templates/dailyNotes Template.md",
-    "Universitario/techWeb/Unidad 1.md",
     "Universitario/redesComputadoras/Unidad 1 Tema 2.md"
   ]
 }
