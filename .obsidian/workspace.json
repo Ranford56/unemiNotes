@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "cd68509264fc8907",
+        "id": "eeb7346ad2635eda",
         "type": "tabs",
         "children": [
           {
-            "id": "1dfb820368940cea",
+            "id": "f8eb4d7b7f7a828d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
                 "mode": "preview",
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3f5499dd7f61d140",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RIPCONCIV/SCRUM/Seccion 2.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "RIPCONCIV/SCRUM/Seccion 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "RIPCONCIV/SCRUM/Seccion 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "RIPCONCIV/SCRUM/Seccion 2.md"
               }
             }
           },
@@ -154,23 +167,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "1dfb820368940cea",
+  "active": "3f5499dd7f61d140",
   "lastOpenFiles": [
-    "dailyNotes/2023-01-01.md",
     "Home.md",
+    "dailyNotes/2023-01-01.md",
     "dailyNotes/2022-12-23.md",
     "dailyNotes/2022-12-21.md",
     "Universitario/techWeb/Unidad 1.md",

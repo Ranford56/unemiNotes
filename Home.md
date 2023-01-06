@@ -1,4 +1,5 @@
 ---
+banner: "![[home.webp]]"
 cssclass: dashboard
 banner: "![[home.webp]]"
 banner_y: 0.404
