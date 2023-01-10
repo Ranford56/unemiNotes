@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "eeb7346ad2635eda",
+        "id": "e912dcb972604807",
         "type": "tabs",
         "children": [
           {
-            "id": "f8eb4d7b7f7a828d",
+            "id": "44e7ff2d36835c2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3f5499dd7f61d140",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RIPCONCIV/SCRUM/Seccion 2.md",
+                "file": "dailyNotes/2023-01-10.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RIPCONCIV/SCRUM/Seccion 2.md",
+                "file": "dailyNotes/2023-01-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RIPCONCIV/SCRUM/Seccion 2.md",
+                "file": "dailyNotes/2023-01-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RIPCONCIV/SCRUM/Seccion 2.md"
+                "file": "dailyNotes/2023-01-10.md"
               }
             }
           },
@@ -180,9 +167,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3f5499dd7f61d140",
+  "active": "44e7ff2d36835c2a",
   "lastOpenFiles": [
     "Home.md",
+    "dailyNotes/2023-01-09.md",
     "dailyNotes/2023-01-01.md",
     "dailyNotes/2022-12-23.md",
     "dailyNotes/2022-12-21.md",
@@ -190,7 +178,6 @@
     "Untitled.md",
     "dailyNotes/2022-12-20.md",
     "dailyNotes/2022-12-19.md",
-    "templates/unemiNotes Template.md",
-    "Pomodoro Log.md"
+    "templates/unemiNotes Template.md"
   ]
 }
