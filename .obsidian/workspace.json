@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e912dcb972604807",
+        "id": "7147c98a0878dcf6",
         "type": "tabs",
         "children": [
           {
-            "id": "44e7ff2d36835c2a",
+            "id": "208ed09477fd5907",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailyNotes/2023-01-10.md",
+                "file": "dailyNotes/2023-01-12.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyNotes/2023-01-10.md",
+                "file": "dailyNotes/2023-01-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyNotes/2023-01-10.md",
+                "file": "dailyNotes/2023-01-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyNotes/2023-01-10.md"
+                "file": "dailyNotes/2023-01-12.md"
               }
             }
           },
@@ -167,17 +167,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "44e7ff2d36835c2a",
+  "active": "208ed09477fd5907",
   "lastOpenFiles": [
+    "dailyNotes/2023-01-11.md",
+    "dailyNotes/2023-01-10.md",
+    "dailyNotes/2023-01-12.md",
     "Home.md",
+    "RIPCONCIV/SCRUM/Seccion 2.md",
     "dailyNotes/2023-01-09.md",
     "dailyNotes/2023-01-01.md",
     "dailyNotes/2022-12-23.md",
     "dailyNotes/2022-12-21.md",
-    "Universitario/techWeb/Unidad 1.md",
-    "Untitled.md",
-    "dailyNotes/2022-12-20.md",
-    "dailyNotes/2022-12-19.md",
-    "templates/unemiNotes Template.md"
+    "Universitario/techWeb/Unidad 1.md"
   ]
 }
