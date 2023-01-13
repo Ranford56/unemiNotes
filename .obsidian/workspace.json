@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7147c98a0878dcf6",
+        "id": "925ca67456dd8dcd",
         "type": "tabs",
         "children": [
           {
-            "id": "208ed09477fd5907",
+            "id": "e6ffdac61388bc2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailyNotes/2023-01-12.md",
+                "file": "dailyNotes/2023-01-13.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyNotes/2023-01-12.md",
+                "file": "dailyNotes/2023-01-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyNotes/2023-01-12.md",
+                "file": "dailyNotes/2023-01-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyNotes/2023-01-12.md"
+                "file": "dailyNotes/2023-01-13.md"
               }
             }
           },
@@ -167,12 +167,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "208ed09477fd5907",
+  "active": "e6ffdac61388bc2a",
   "lastOpenFiles": [
+    "Home.md",
     "dailyNotes/2023-01-11.md",
     "dailyNotes/2023-01-10.md",
     "dailyNotes/2023-01-12.md",
-    "Home.md",
     "RIPCONCIV/SCRUM/Seccion 2.md",
     "dailyNotes/2023-01-09.md",
     "dailyNotes/2023-01-01.md",
