@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "925ca67456dd8dcd",
+        "id": "da681eb43e66a7e3",
         "type": "tabs",
         "children": [
           {
-            "id": "e6ffdac61388bc2a",
+            "id": "e10dbd6c1c1f80bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailyNotes/2023-01-13.md",
+                "file": "dailyNotes/2023-01-15.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyNotes/2023-01-13.md",
+                "file": "dailyNotes/2023-01-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyNotes/2023-01-13.md",
+                "file": "dailyNotes/2023-01-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyNotes/2023-01-13.md"
+                "file": "dailyNotes/2023-01-15.md"
               }
             }
           },
@@ -167,8 +167,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e6ffdac61388bc2a",
+  "active": "e10dbd6c1c1f80bc",
   "lastOpenFiles": [
+    "dailyNotes/2023-01-14.md",
+    "dailyNotes/2023-01-15.md",
     "Home.md",
     "dailyNotes/2023-01-11.md",
     "dailyNotes/2023-01-10.md",
@@ -176,8 +178,6 @@
     "RIPCONCIV/SCRUM/Seccion 2.md",
     "dailyNotes/2023-01-09.md",
     "dailyNotes/2023-01-01.md",
-    "dailyNotes/2022-12-23.md",
-    "dailyNotes/2022-12-21.md",
-    "Universitario/techWeb/Unidad 1.md"
+    "dailyNotes/2022-12-23.md"
   ]
 }
